@@ -1,0 +1,91 @@
+`# core` \
+base \
+base-devel \
+intel-ucode \
+
+
+`# after chroot` \
+
+
+
+`### DESKTOP` \
+xorg \
+xorg-drivers \
+xfce4 \
+xfce4-goodies \
+networkmanager network-manager-applet \
+
+`# multimedia` \
+mpv \
+
+remmina freerdp \
+
+
+`# containers` \
+lxc \
+
+
+`# misc` \
+alsa-{utils,tools} \
+
+
+
+
+#============
+
+remmina rdesktop
+
+
+
+mpv
+terminator
+firefox chromium-browser
+firefox chromium
+go php
+mercurial git bzr subversiob go-tools
+mercurial git bzr subversion go-tools
+lightdm lightdm-gtk-greeter
+lightdm lightdm-gtk-greeter
+xfce4-pulseaudio-plugin
+yajl
+expac
+openntpd
+ntpdate
+xfce4-volumed
+xfce4-volume
+libappindicator-gtk{2,3}
+pidgin keepassx
+xfce4
+exo garcon
+xfce
+volwheel volumeicon
+alsa-firmware
+gnome-alsamixer
+openssh
+smartmontools
+strace ltrace
+lsof
+bash-completion
+docker
+php-gd
+gwenview
+keepass
+keepassx2
+youtube-dl
+calc
+gimp
+lxd
+extra/gnome-font-viewer
+extra/gnome-font-viewer
+pdf
+qpdf
+evince
+htop strace ltrace
+htop 
+elastic
+elasticsearch
+byacc
+ntfs-3g
+udisks2
+gvfs
+gvfs-{smb,mtp,nfs}
